@@ -1,0 +1,23 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "Sudoku solving engine",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHamamji/Sudoku-solver.git"
+  },
+  "author": "Sam Hamamji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamHamamji/Sudoku-solver/issues"
+  },
+  "homepage": "https://github.com/SamHamamji/Sudoku-solver#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
